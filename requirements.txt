@@ -1,0 +1,11 @@
+langchain_community
+langchain-ollama
+langchain-chroma
+langchain-core
+langchain_core
+langgraph
+langchain
+langchain_openai
+chromadb
+markdown
+whoosh
