@@ -15,7 +15,7 @@ from langchain.chains import RetrievalQA
 # Configuration
 DATA_DIR = "/home/shany/Downloads/wiki/DevOps"  # Directory containing markdown files
 CHROMA_DB_DIR = "./chroma_db"  # Directory for ChromaDB storage
-OLLAMA_MODEL = "llama3"  # Local model name
+OLLAMA_MODEL = "wizardlm2"  # Local model name
 
 # Ensure model is available
 os.system(f'ollama pull {OLLAMA_MODEL}')  # Local model name
